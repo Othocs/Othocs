@@ -2,34 +2,28 @@
 
 ## 👀 About Me
 
-I'm a passionate lifelong learner from Paris, France. 
-As a BSc student in Artificial Intelligence, Data Science, and Management Science at Centralesupélec & ESSEC, I thrive on challenges that enhance my skills and push the boundaries of what I know about programming, AI, and data analytics.
+I'm from Casablanca, Morocco and I'm currently studying AI and Data Science in Paris, France at a joint program between Centralesupélec & ESSEC
 
-## 🌱 I’m Currently Learning
+## I’m Currently Working On
 
-- Advanced Python programming techniques for data science
-- AI applications in real-world problems through my involvement with Automatant, the AI Association at Centralesupélec
+- AI Web Apps (computer vision, agents and AI Vocal AI Assistants)
+- Utopia, the first AI association of ESSEC that I co-founded (30+ members). I'm specifically in charge of a team of 15 people that creates AI Workshops/Courses for anyone to learn more about machine learning and AI.
+- Hackathons around Paris
 
-## 💞️ I'm Looking to Collaborate On
 
-- AI and Machine Learning projects that make a social impact, especially in education and sustainability
-- Hackathons or problem-solving challenges focused on innovative AI solutions
+## What I work with
 
-## 📫 How to Reach Me
+- Python
+- React
+- Javascript
+- HTML
+- CSS
+
+## How to Reach Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/othmane-menkor) 
 or send me an email at [othmane.menkor@gmail.com](mailto:othmane.menkor@gmail.com).
 
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun Fact
-
-I play 5 instruments.
-
----
-
-I look forward to collaborating with you and sharing ideas that can change the world, one line of code at a time!
 
 <!---
 Othocs/Othocs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
