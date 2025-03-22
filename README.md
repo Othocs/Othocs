@@ -1,38 +1,27 @@
-# 👋 Hi, I'm Othmane Menkor (@Othocs)
+# Othmane
 
-## 👀 About Me
+## About Me
+Engineering & business student at **Centrale/ESSEC**, majoring in Data Science/AI & Management and living in Paris
 
-I'm from Casablanca, Morocco and I'm currently studying AI and Data Science in Paris, France at a joint program between Centralesupélec & ESSEC
-
-## I’m Currently Working On
-
-- AI Web Apps (computer vision, agents and AI Vocal AI Assistants)
-- Utopia, the first AI association of ESSEC that I co-founded (30+ members). I'm specifically in charge of a team of 15 people that creates AI Workshops/Courses for anyone to learn more about machine learning and AI.
-- Hackathons around Paris
-
+- Co-founder of <a href="https://www.utopiaessec.fr/">Utopia</a> the AI association of ESSEC Business School
+- Organized industry events featuring Aravind Srinivas, CEO of Perplexity, and leadership from Mistral AI, OpenAI, Snowflake...
+- Active hackathon participant in Paris (Mistral, Alan, Meta, Station F...)
 
 ## What I work with
 
-- Python
-- React
-- Javascript
-- HTML
-- CSS
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## How to Reach Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/othmane-menkor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/othocs" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-  </a>
-  <a href="mailto:othmane.menkor@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</div>
+## Interests
 
-<!---
-Othocs/Othocs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![AI](https://img.shields.io/badge/AI-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Voice Assistants](https://img.shields.io/badge/Voice%20Assistants-%2314354C.svg?style=for-the-badge&logo=amazon-alexa&logoColor=white)
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
