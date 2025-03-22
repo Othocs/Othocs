@@ -20,10 +20,17 @@ I'm from Casablanca, Morocco and I'm currently studying AI and Data Science in P
 - CSS
 
 ## How to Reach Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/othmane-menkor) 
-or send me an email at [othmane.menkor@gmail.com](mailto:othmane.menkor@gmail.com).
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/othmane-menkor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/othocs" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  <a href="mailto:othmane.menkor@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
 
 <!---
 Othocs/Othocs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
